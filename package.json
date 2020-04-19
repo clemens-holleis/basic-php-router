@@ -1,0 +1,11 @@
+{
+    "name": "php-router",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "php-server": "open http://localhost:8081 && php -S 127.0.0.1:8081"
+    },
+    "author": "",
+    "license": "ISC"
+}
